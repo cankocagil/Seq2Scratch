@@ -10,7 +10,7 @@ This repo contains "from scratch" or "only NumPy" implementations of recurrent n
 
     * Multi-class Time Series Analysis with Recurrent Neural Networks
     * Multi-layer RNN (from 1 to 5 layer)
-    * Convex Optimizers  
+    * Non-Convex Optimizers  
       * Adam Optimizer
       * AdaGrad Optimizer
       * RMSprop Optimizer
